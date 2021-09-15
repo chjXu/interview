@@ -58,6 +58,7 @@ C/C++ 面试知识总结，只为复习、分享。部分知识点与图片来�
 6. 代码段。存储代码，不允许修改，可执行
 
 <details><summary>例子</summary> 	
+	
 ```cpp
 #include <iostream>
 using namespace std;
@@ -72,7 +73,11 @@ int main(){
 	static int var = 0; //在静态存储区
 }
 ```
+	
 </details>
+	
+
+	
 	
 #### 堆和栈的区别
 	

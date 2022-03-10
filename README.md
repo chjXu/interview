@@ -13,6 +13,7 @@ C/C++ 面试知识总结，只为复习、分享。部分知识点与图片来�
 ## 目录
 
 * [C/C++](#cc)
+* [C++性能优化](#ccpo)
 * [STL](#stl)
 * [数据结构](#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 * [算法](#%E7%AE%97%E6%B3%95)
@@ -1279,6 +1280,19 @@ class doSomething(Flyable *obj)                 // 做些事情
 > 图片来源于：[CSDN . 一张图总结Google C++编程规范(Google C++ Style Guide)](http://blog.csdn.net/voidccc/article/details/37599203)
 
 </details>
+	
+
+## C++性能优化
+
+### 目录
+1. 用好的编译器并用好编译器
+2. 使用好的算法(搜索和查找)
+3. 使用好的库
+4. 减少内存分配和复制
+5. 移除计算
+6. 使用好的数据结构
+7. 提高并发性
+8. 优化内存管理
 
 ## STL
 
